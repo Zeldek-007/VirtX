@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#NOTE: The initial version of mVNC will NOT support creating its own virtual outputs ; an existing physical or virtual output must be hijacked.
+#NOTE: The initial version does NOT support creating its own virtual outputs ; an existing physical or virtual output must be hijacked.
 import os
 from subprocess import check_output
 
